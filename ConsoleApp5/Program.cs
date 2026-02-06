@@ -19,6 +19,8 @@
         //-------------------------------------------------------------------
 
         //Console.WriteLine(SortDescending(784));
+
+        Console.WriteLine("Nika");
     }
 
     //static int[] CountPosSumNeg(int[] arr)
